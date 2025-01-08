@@ -14,7 +14,7 @@ Le projet, s'est déroulé du 28 février 2024 au 18 mars 2024, durant cette pé
 - Livrable n°1 : [Compte rendu analyse de données] rendu le 17 mars 2024,
 - Livrable n°2 : [Éthique] rendu le 17 mars 2024.
 
-La soutenance de présentation, s'est déroulée le 18 mars 2024, le support de présentation est consultable : [Présentation : projet IA](https://github.com/Scordragours/Projet-IA-A4/blob/master/Groupe%20n%C2%B04%20-%20Pr%C3%A9sentation%20:%20Projet%20IA.pdf).
+La soutenance de présentation, s'est déroulée le 18 mars 2024, le support de présentation est consultable : [Présentation : projet IA].
 
 
 
@@ -32,5 +32,5 @@ The project took place from February 28, 2024 to March 18, 2024, during this per
 - Deliverable number 1: [Compte rendu analyse de données] delivered on March 17, 2024,
 - Deliverable number 2: [Éthique] delivered on March 17, 2024.
 
-The defense of presentation, it took place on March 18, 2024, whose support of presentation is consultable: [Présentation : projet IA](https://github.com/Scordragours/Projet-IA-A4/blob/master/Groupe%20n%C2%B04%20-%20Pr%C3%A9sentation%20:%20Projet%20IA.pdf).
+The defense of presentation, it took place on March 18, 2024, whose support of presentation is consultable: [Présentation : projet IA].
 
